@@ -1,4 +1,4 @@
-## Oiii eu sou o Felipe Hussar, Biólogo, desenvolvedor web e mestrando em Bioinformática!
+## Oiii eu sou o Felipe Hussar, Biólogo, Desenvolvedor Web e mestrando em Bioinformática!
 
 
 <div style="display: inline_block"><br>
